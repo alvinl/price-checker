@@ -1,0 +1,19 @@
+{
+  "name": "price-checker",
+  "version": "1.0.0",
+  "description": "Stem plugin to price check Steam Market items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alvinl/price-checker.git"
+  },
+  "author": "Alvin Lazaro <me@alvinl.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvinl/price-checker/issues"
+  },
+  "homepage": "https://github.com/alvinl/price-checker"
+}
