@@ -1,6 +1,6 @@
 {
   "name": "price-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stem plugin to price check Steam Market items",
   "main": "index.js",
   "scripts": {

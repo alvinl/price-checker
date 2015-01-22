@@ -1,6 +1,6 @@
 
-var SEARCH_API = 'https://open-market.alvinl.com/api/search?limit=5&name=',
-    PRICE_API  = 'https://open-market.alvinl.com/api/prices?item=%itemName&appID=%appID';
+var SEARCH_API = 'https://open-market.io/api/search?limit=5&name=',
+    PRICE_API  = 'https://open-market.io/api/prices?item=%itemName&appID=%appID';
 
 module.exports = function (stem) {
 
